@@ -1,37 +1,118 @@
-## Welcome to GitHub Pages
+<!doctype html>
 
-You can use the [editor on GitHub](https://github.com/MrRacoo9/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+    <center><b color="red"><a href="Waffles.html">Англійською</a></b></center>
+    <head>
+        <meta charset="UTF-8">
+<title>
+Рецепт смачних вафель
+</title>
+<h1 align="center">ВАФЛІ ЗА 20 ХВИЛИН</h1>
+<style>
+body{
+    background: url(Прапор.png) no-repeat;
+    background-size: 300%;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</style>
+<script>
+    // document.write("то угодно");
+   var  person = null;
+ 
+   if (confirm("Cпробуй приготувати ці смачні вафли!")){
+ 
+       alert("Сподіваюсь, тобі це вдасться!")
+   }else{
+       alert("Відправ цей рецепт друзям!)")
+ 
+   }
+ </script>
+    </head>
 
-### Markdown
+<hr width="1000" size="5" color="black">
+    <body >
+        
+    <big><p align="center"><b>Рецепт дуже <em>смачних</em>, <em>хрустких</em> та <em>м'яких</em> вафель</b></p></big>
+<center><img src="Венгерские вафли.jpg" alt="Вкуснейшиие венгерские вафли" width="500" height="400"></center>
+    
+    <center> <p>Складові</p> </center>  
+    <il>
+      <b> <font size="4px">
+<li>Яйце куряче - 3 шт. (середнього розміру))</li>
+<li>Цукор – 100 г</li>
+<li>Молоко – 250 мл (2,5% жирності)</li>
+<li>Масло вершкове – 200 г (72% жирності)</li>
+<li>Борошно пшеничне – 350 г</li>
+<li>Сік лимонний – 1 ст.</li>
+<li>Розпушувач тесту – 2 ч. л. (без гірки)</li>
+</font></b>
+</il>
+    
+<hr width="1000" size="5" color="black">
+    
+      <h2> <p align="center">Приготування:</p> </h2> 
+        <ol>
+           <font size="4px"> <b><li>Для тесту необхідно взяти олію кімнатної температури.<br></li>
+            Найкраще, якщо ви заздалегідь дістанете його з холодильника.<br>
+            Гріти холодну олію в мікрохвильовій печі я б не радила,<br>
+            тому що частина його швидко розтане, а інша залишиться холодною та твердою.<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ <br>
+ <li>М'яку олію треба розтерти із цукром. Можна скористатися виделкою,<br></il>
+    але навіщо витрачати багато зусиль, якщо є міксер. <br>
+    На малих оборотах збити віночками олію та цукор у однорідну та пишну масу.<br>
+       <br>
+    <li>Вбити яйця. Розмір яєць у мене середній, приблизно 65 гр зі шкаралупою.<br>
+        Знову ж таки на малих обертах міксера збити тісто.</li>
+         <br>
+       <li>У тісто влити молоко. Воно має бути свіжим, не кислим і бажано не дуже холодним.<br>
+        Знову збити віночком. Намагайтеся все робити на низьких оборотах, <br>
+        щоб маса не розлетілася з миски. <br></li>
+           <br>
+           <li>Видавити сік у столову ложку та влити до тіста.<br></li>
+           <br>
+           <li>Туди ж просіяти необхідну кількість борошна з додаванням розпушувача.</li>
+           Перемішати або ложкою, або віночком міксера.br>
+           <br>
+           
+           <li>Тісто за цим рецептом має вийти гладким, однорідним,<br>
+            за густотою як на оладки.<br>
+         <br>
+         <li>Кулінарним пензликом змастити вафельницю краплею рослинної олії,<br>
+            добре нагріти прилад.</li><br>
+            <br>
+            <li>Викласти тісто на середину форми і щільно закрити вафельницю.
+                На одну вафлю необхідно приблизно 2 столові ложки тіста.</li><br>
+            <br>
+             <li> Випікати Віденські вафлі близько 5 хвилин, але час випічки кожної моделі вафельниці буде різним.
+                
+             Тому контролюйте рум'яність вафель. На випічку моїх вафель витрачалося приблизно 5 хвилин.<br>
+             З цієї кількості тесту я приготувала 10 вафель розміром 10*10 см.</li><br> 
+            <br>
+            <center><img src="Венгерские вафли 1.jpg" alt="result" height="400" width="500"></li></center>
+            <br>
+            <em> Поділюсь однією хитрістю.</em>. Відразу після випікання вафлі хрусткі зовні та м'які всередині.<br>
+            Але варто їм полежати трохи більше години, як вафлі стають м'якими,<br>
+            і пропадає ця смачна хрумка скоринка.<br>
+            Щоб зберегти вафлі хрусткими, рекомендую перед подачею на стіл скласти їх на ґрати<br>
+            (можна на лист) і підсушити в духовці при температурі 160 градусів 4-5 хвилин. <br>
+            Такі вафлі знову будуть хрумкими, навіть на другий день.<br>
+            <br>
+             <li> Подавати їх краще теплими – так набагато смачніше. Але й у холодному вигляді вони теж добрі.<br>
+                Способів подачі досить багато!</li><br></b></font>
+                <br>
+<center> Чи вдалося вам приготувати вафлі?<br>
+Залиште відгук<br></center>
+<form action="" method="post" >
+    <input type="text" name="nick" id="nick" placeholder="Напишіть свій нік"><br>
+    <textarea placeholder="Прокоментуйте цей рецепт!">
+    </textarea><br>
+<input type="button" name="send" id="send" value="Відправити">
+<input type="reset" name="res" id="res" value="Збросити">
+</form>
+        </b>
+    </font>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrRacoo9/-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    </ol>
+</body>
+</html>
